@@ -16,3 +16,8 @@ Usage
 ------
 A CSS file is inclued with all of the icon sets. Just include the CSS and you will be able to use icons immediagely with your 
 web application.
+
+Contribution
+------
+If you have a set of icons you want to include, just send me pull requests. The goal is to create a repository with excellent icon
+sets that are easy to use in any web project.

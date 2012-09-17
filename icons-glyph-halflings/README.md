@@ -1,8 +1,8 @@
 Glyph 400
 ==========
 
-Format: PNG (sprite)
-Image Size: 28x28 mono (size not constant)
+Format: PNG (sprite)  
+Size: 28x28 mono (size not constant)  
 
 GLYPHICONS is a library of precisely prepared monochromatic icons and symbols, created with an emphasis on simplicity and easy orientation.
 

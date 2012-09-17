@@ -11,3 +11,8 @@ Supported Sets
 * Glyph Halflings 140
 * Glyph 400
 * Glyph 400 (as image masks)
+
+Usage
+------
+A CSS file is inclued with all of the icon sets. Just include the CSS and you will be able to use icons immediagely with your 
+web application.

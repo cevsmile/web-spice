@@ -1,8 +1,8 @@
 Glyph 400 (mask icons)
 ==========
 
-Format: PNG 
-Image Size: 28x28 or 20x20 or 14x14
+Format: PNG  
+Size: 28x28 or 20x20 or 14x14  
 
 GLYPHICONS is a library of precisely prepared monochromatic icons and symbols, created with an emphasis on simplicity and easy orientation.
 
